@@ -1,7 +1,7 @@
 [![MasterHead](https://www.horizont.com.hr/posao/frontend-developer.gif)]
 <h1 align="center">Hi 👋, I'm MD AHAD KHAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+<img align="right" alt="coding" width="400" src="https://jusmarktech.com/public/a/images/pages/web_development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadkhan2202&label=Profile%20views&color=0e75b6&style=flat" alt="ahadkhan2202" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ahadkha26355620" target="blank"><img src="https://img.shields.io/twitter/follow/ahadkha26355620?logo=twitter&style=for-the-badge" alt="ahadkha26355620" /></a> </p>
